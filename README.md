@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello eveyone 👋
 
-I'm currently learning .NET ecosystem.
+🌱 I'm currently learning .NET ecosystem.
 
 <!--
 **trojash/trojash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

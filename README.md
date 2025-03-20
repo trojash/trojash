@@ -1,5 +1,5 @@
 ### Hello eveyone 👋
-
+I'm currently working in my pathway to become in software developer.
 
 
 <!--

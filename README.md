@@ -1,5 +1,72 @@
 ### Hello everyone! 👋
 ## 🕵️‍♂️ whoami
-I am Tony Hernández
-Security Research and Developer
-Graduate System Engineer
+
+
+<div align="center">
+
+# 🚀 Hello, World! Welcome to My Space.
+
+<!-- TYPING TITLE ACCENT -->
+<img src="https://herokuapp.com!" alt="Typing SVG" />
+
+<br />
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Twitter](https://shields.io)](https://twitter.com)
+
+<br />
+<br />
+
+<!-- TERMINAL INTRO SECTION -->
+### 🕵️‍♂️ whoami
+</div>
+
+```bash
+\$ whoami
+> [Your Name]: Passionate developer creating clean software solutions.
+
+\$ location
+> Guatemala City, Guatemala 🇬🇹
+
+\$ current-stack
+> ["JavaScript", "Python", "React", "Node.js"]
+```
+
+<br />
+
+<div align="center">
+
+<!-- CENTERED BULLET LIST -->
+### ⚡ About Me
+<ul style="display: inline-block; text-align: left; line-height: 1.8;">
+  <li>🌱 Currently exploring cloud architecture and Docker deployment.</li>
+  <li>💻 Working daily with web applications, APIs, and microservices.</li>
+  <li>☕ Powered almost exclusively by caffeine and music playlist loops.</li>
+  <li>🤝 Open to collaborate on open-source projects or contract work.</li>
+</ul>
+
+<br />
+<br />
+---
+<br />
+
+<!-- GITHUB STATISTICS GRAPHICS -->
+### 📊 My GitHub Statistics
+
+![Your GitHub Stats](https://vercel.app)
+
+<br />
+
+![Your Top Languages](https://vercel.app)
+![Your Streak](https://herokuapp.com)
+
+<br />
+<br />
+---
+<br />
+
+<!-- VISITOR COUNTER FOOTER -->
+![Visitor Count](https://komarev.com)
+
+</div>

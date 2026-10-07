@@ -31,7 +31,6 @@
 <ul style="display: inline-block; text-align: left; line-height: 1.8;">
   <li>🌱 Currently exploring cloud architecture and Docker deployment.</li>
   <li>💻 Working daily with web applications, APIs, and microservices.</li>
-  <li>☕ Powered almost exclusively by caffeine and music playlist loops.</li>
   <li>🤝 Open to collaborate on open-source projects or contract work.</li>
 </ul>
 

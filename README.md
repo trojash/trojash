@@ -1,19 +1,11 @@
-### Hello everyone! 👋
-## 🕵️‍♂️ whoami
-
-
 <div align="center">
 
 # 🚀 Hello, World! Welcome to My Space.
 
-<!-- TYPING TITLE ACCENT -->
-<img src="https://herokuapp.com!" alt="Typing SVG" />
-
-<br />
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Twitter](https://shields.io)](https://twitter.com)
+
 
 <br />
 <br />
@@ -24,13 +16,10 @@
 
 ```bash
 \$ whoami
-> [Your Name]: Passionate developer creating clean software solutions.
-
-\$ location
-> Guatemala City, Guatemala 🇬🇹
+> [Your Name]: Passionate developer creating clean software solutions
 
 \$ current-stack
-> ["JavaScript", "Python", "React", "Node.js"]
+> ["JavaScript", "Python", "C#", ".NET", "Angular"]
 ```
 
 <br />

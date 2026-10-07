@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 🚀 Hello, World! Welcome to My Space.
+# 🚀 Welcome to my GitHub.
 
 
 <!-- SOCIAL BADGES -->

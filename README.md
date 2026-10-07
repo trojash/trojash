@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to my GitHub.
 
-<img src="https://herokuapp.com!" alt="Typing SVG" />
+<img src="" alt="Typing SVG" />
 
 <br />
 

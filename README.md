@@ -2,6 +2,9 @@
 
 # 🚀 Welcome to my GitHub.
 
+<img src="https://herokuapp.com!" alt="Typing SVG" />
+
+<br />
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://shields.io)](https://linkedin.com)

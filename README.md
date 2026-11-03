@@ -15,7 +15,7 @@
 
 ```bash
 \$ whoami
-> [Your Name]: I am Tony Hernández System Engineer
+> I am Tony Hernández System Engineer
 
 \$ current-stack
 > ["JavaScript", "C#", ".NET", "Angular"]
@@ -34,7 +34,6 @@
 
 <br />
 <br />
----
 <br />
 
 
@@ -45,8 +44,4 @@
 <br />
 ---
 <br />
-
-<!-- VISITOR COUNTER FOOTER -->
-![Visitor Count](https://komarev.com)
-
 </div>

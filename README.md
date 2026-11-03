@@ -1,13 +1,9 @@
 <div align="left">
 
 # 🚀 Welcome to my GitHub.
-
-<img src="" alt="Typing SVG" />
-
 <br />
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 
 
 <br />
@@ -22,7 +18,7 @@
 > [Your Name]: Passionate developer creating clean software solutions
 
 \$ current-stack
-> ["JavaScript", "Python", "C#", ".NET", "Angular"]
+> ["JavaScript", "C#", ".NET", "Angular"]
 ```
 
 <br />
@@ -42,15 +38,9 @@
 ---
 <br />
 
-<!-- GITHUB STATISTICS GRAPHICS -->
-### 📊 My GitHub Statistics
-
-![Your GitHub Stats](https://vercel.app)
 
 <br />
 
-![Your Top Languages](https://vercel.app)
-![Your Streak](https://herokuapp.com)
 
 <br />
 <br />

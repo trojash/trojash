@@ -18,7 +18,7 @@
 > I am Tony Hernández System Engineer
 
 \$ current-stack
-> ["JavaScript", "C#", ".NET", "React", "Python"]
+> ["JavaScript", "C#", ".NET", "Web Frameworks", "Python"]
 ```
 
 <br />

@@ -15,24 +15,16 @@
 
 #### 🛠️ Software Development Stack
 
-![JavaScript](https://shields.io)
-![C#](https://shields.io)
-![.NET](https://shields.io)
-![Python](https://shields.io)
-![Web Frameworks](https://shield.io)
+- `JavaScript` • `C#` • `.NET` • `Web Frameworks` • `Python`
 
 #### 🛡️ Cybersecurity, Homelab & DFIR Stack
 
-![Linux](https://shields.io)
-![Kali Linux](https://shields.io)
-![VirtualBox](https://shields.io)
-![Windows Server](https://shields.io)
-![OPNsense](https://shields.io)
-![Wazuh](https://shields.io)
-![Blue Team & DFIR Tools](https://shields.io)
+- **Systems & Virtualization:** `Linux` • `Kali Linux` • `Windows Server` • `VirtualBox`
+- **Networking & SIEM:** `OPNsense` • `Wazuh`
+- **Blue Team & DFIR:** `Zeek` • `DFIR-IRIS` • `IntelOwl` • `Shuffle` • `Autopsy`
 
 #### 📫 Connect with Me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 

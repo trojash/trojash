@@ -26,14 +26,13 @@
 
 #### 🛡️ Cybersecurity, Homelab & DFIR Stack
 
-![OPNsense](https://shields.io)
-![VirtualBox](https://shields.io)
 ![Linux](https://shields.io)
 ![Kali Linux](https://shields.io)
+![VirtualBox](https://shields.io)
 ![Windows Server](https://shields.io)
+![OPNsense](https://shields.io)
 ![Wazuh](https://shields.io)
 ![Blue Team & DFIR Tools](https://shields.io)
-
 
 #### 📫 Connect with Me
 

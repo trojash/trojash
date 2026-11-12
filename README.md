@@ -5,9 +5,6 @@
 ```bash
 \$ whoami
 > I am Tony Hernández, a System Engineer
-
-\$ software-stack
-> ["JavaScript", "C#", ".NET", "Web Frameworks", "Python", "Git & GitHub"]
 ```
 
 #### ⚡ About Me

@@ -23,6 +23,7 @@
 ![C#](https://shields.io)
 ![.NET](https://shields.io)
 ![Python](https://shields.io)
+![Web Frameworks](https://shield.io)
 
 #### 🛡️ Cybersecurity, Homelab & DFIR Stack
 

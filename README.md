@@ -15,11 +15,15 @@
 
 #### 🛠️ Software Development Stack
 
-- `JavaScript` • `C#` • `.NET` • `Web Frameworks` • `Python`
+- `JavaScript` • `C#` • `.NET` • `Web Frameworks`
 
 #### 🔄 Version Control & Collaboration
 
-- `Git` • `GitHub`
+- `Git` • `GitHub` • `Visual Studio Code` • `Visual Studio Community`
+
+#### 🗄️ Databases
+
+- `Microsoft SQL Server` • `SSMS`
 
 #### 🛡️ Cybersecurity, Homelab & DFIR Stack
 

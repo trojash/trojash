@@ -15,7 +15,6 @@
 - 💻 Developing web apps and APIs.
 - 🛡️ Practicing networking, incident response, and Red/Blue Team & DFIR fundamentals in my homelab.
 - 🤝 Open to collaborating on open-source projects.
-- 🤝 Open to collaborating on open-source projects.
 
 #### 🛠️ Software Development Stack
 

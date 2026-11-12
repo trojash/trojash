@@ -17,6 +17,10 @@
 
 - `JavaScript` • `C#` • `.NET` • `Web Frameworks` • `Python`
 
+#### 🔄 Version Control & Collaboration
+
+- `Git` • `GitHub`
+
 #### 🛡️ Cybersecurity, Homelab & DFIR Stack
 
 - **Systems & Virtualization:** `Ubuntu (Server & Desktop)` • `Rocky Linux 9` • `Kali Linux` • `Windows Server` • `VirtualBox`

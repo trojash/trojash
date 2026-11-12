@@ -26,5 +26,4 @@
 #### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 

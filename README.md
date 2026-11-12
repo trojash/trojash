@@ -28,10 +28,10 @@
 <!-- CENTERED BULLET LIST -->
 ### ⚡ About Me
 <ul style="display: inline-block; text-align: left; line-height: 1.8;">
-- 💻 Working daily with web applications, APIs, and software solutions.
-- 🛡️ Building and practicing in a Red/Blue Team & DFIR homelab.
-- 🔐 Exploring networking and cybersecurity projects.
-- 🤝 Open to collaborate on open-source projects.
+  <li>💻 Working daily with web applications, APIs, and software solutions.</li>
+  <li>🛡️ Building and practicing in a Red/Blue Team & DFIR homelab.</li>
+  <li>🔐 Exploring networking and cybersecurity projects.</li>
+  <li>🤝 Open to collaborate on open-source projects.</li>
 </ul>
 
 <br />

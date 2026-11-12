@@ -1,17 +1,6 @@
-<div align="left">
+### 🚀 Welcome to my GitHub
 
-# 🚀 Welcome to my GitHub.
-<br />
-
-
-
-
-<br />
-<br />
-
-<!-- TERMINAL INTRO SECTION -->
-### 🕵️‍♂️ whoami
-</div>
+#### 🕵️‍♂️ whoami
 
 ```bash
 \$ whoami
@@ -21,39 +10,36 @@
 > ["JavaScript", "C#", ".NET", "Web Frameworks", "Python"]
 ```
 
-<br />
+#### ⚡ About Me
 
-<div align="center">
+- 💻 Working daily with web applications, APIs, and software solutions.
+- 🛡️ Building and practicing in a Red/Blue Team & DFIR homelab.
+- 🔐 Exploring networking, threat intelligence, and incident response projects.
+- 🤝 Open to collaborating on open-source projects.
 
-<!-- CENTERED BULLET LIST -->
-### ⚡ About Me
-<ul style="display: inline-block; text-align: left; line-height: 1.8;">
-  <li>💻 Working daily with web applications, APIs, and software solutions.</li>
-  <li>🛡️ Building and practicing in a Red/Blue Team & DFIR homelab.</li>
-  <li>🔐 Exploring networking and cybersecurity projects.</li>
-  <li>🤝 Open to collaborate on open-source projects.</li>
-</ul>
+#### 🛠️ Software Development Stack
 
-<br />
-<br />
-<br />
-#### 🛠️ Tech Stack
 ![JavaScript](https://shields.io)
 ![C#](https://shields.io)
 ![.NET](https://shields.io)
 ![Python](https://shields.io)
-![Linux](https://shields.io)
-![Wireshark](https://shields.io)
 
-<br />
-<br />
+#### 🛡️ Cybersecurity, Homelab & DFIR Stack
+
+![OPNsense](https://shields.io)
+![VirtualBox](https://shields.io)
+![Kali Linux](https://shields.io)
+![Windows Server](https://shields.io)
+![Wazuh](https://shields.io)
+![Zeek](https://shields.io)
+![DFIR-IRIS](https://shields.io)
+![IntelOwl](https://shields.io)
+![Shuffle SOAR](https://shields.io)
+![DFIR Tools](https://shields.io)
+
 #### 📫 Connect with Me
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:your.email@example.com)
+[![X](https://shields.io)](https://x.com)
 
-<br />
-<br />
----
-<br />
-</div>

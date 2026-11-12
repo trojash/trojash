@@ -9,7 +9,7 @@
 
 #### ⚡ About Me
 
-- 💻 Developing web apps and APIs.
+- 💻 Developing web apps, APIs and, software solutions.
 - 🛡️ Practicing networking, incident response, and Red/Blue Team & DFIR fundamentals in my homelab.
 - 🤝 Open to collaborating on open-source projects.
 

@@ -10,7 +10,7 @@
 #### ⚡ About Me
 
 - 💻 Developing web apps, APIs and, software solutions.
-- 🛡️ Exploring cybersecurity, networking, and DFIR through personal learning and homelab projects..
+- 🛡️ Exploring cybersecurity, networking, and DFIR through self-learning and homelab projects.
 - 🤝 Open to collaborating on open-source projects.
 
 #### 🛠️ Software Development Stack

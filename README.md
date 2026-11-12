@@ -12,9 +12,9 @@
 
 #### ⚡ About Me
 
-- 💻 Working daily with web applications, APIs, and software solutions.
-- 🛡️ Building and practicing in a Red/Blue Team & DFIR homelab.
-- 🔐 Exploring networking, threat intelligence, and incident response projects.
+- 💻 Developing web apps and APIs.
+- 🛡️ Practicing networking, incident response, and Red/Blue Team & DFIR fundamentals in my homelab.
+- 🤝 Open to collaborating on open-source projects.
 - 🤝 Open to collaborating on open-source projects.
 
 #### 🛠️ Software Development Stack
@@ -28,14 +28,12 @@
 
 ![OPNsense](https://shields.io)
 ![VirtualBox](https://shields.io)
+![Linux](https://shields.io)
 ![Kali Linux](https://shields.io)
 ![Windows Server](https://shields.io)
 ![Wazuh](https://shields.io)
-![Zeek](https://shields.io)
-![DFIR-IRIS](https://shields.io)
-![IntelOwl](https://shields.io)
-![Shuffle SOAR](https://shields.io)
-![DFIR Tools](https://shields.io)
+![Blue Team & DFIR Tools](https://shields.io)
+
 
 #### 📫 Connect with Me
 

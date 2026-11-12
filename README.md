@@ -37,10 +37,20 @@
 <br />
 <br />
 <br />
-
+#### 🛠️ Tech Stack
+![JavaScript](https://shields.io)
+![C#](https://shields.io)
+![.NET](https://shields.io)
+![Python](https://shields.io)
+![Linux](https://shields.io)
+![Wireshark](https://shields.io)
 
 <br />
+<br />
+#### 📫 Connect with Me
 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:your.email@example.com)
 
 <br />
 <br />

@@ -10,7 +10,7 @@
 #### ⚡ About Me
 
 - 💻 Developing web apps, APIs and, software solutions.
-- 🛡️ Practicing networking, incident response, and Red/Blue Team & DFIR fundamentals in my homelab.
+- 🛡️ Exploring cybersecurity, networking, and DFIR through personal learning and homelab projects..
 - 🤝 Open to collaborating on open-source projects.
 
 #### 🛠️ Software Development Stack

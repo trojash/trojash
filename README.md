@@ -6,8 +6,8 @@
 \$ whoami
 > I am Tony Hernández, a System Engineer
 
-\$ current-stack
-> ["JavaScript", "C#", ".NET", "Web Frameworks", "Python"]
+\$ software-stack
+> ["JavaScript", "C#", ".NET", "Web Frameworks", "Python", "Git & GitHub"]
 ```
 
 #### ⚡ About Me
@@ -41,5 +41,4 @@
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:your.email@example.com)
-[![X](https://shields.io)](https://x.com)
 

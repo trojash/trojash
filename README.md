@@ -29,7 +29,7 @@
 ### ⚡ About Me
 <ul style="display: inline-block; text-align: left; line-height: 1.8;">
   <li>💻 Working daily with web applications, APIs, and apps.</li>
-  <li>💻 Working daily with networking and cybersecurity projects.</li>
+  <li>💻 Working with networking and cybersecurity projects.</li>
   <li>🤝 Open to collaborate on open-source projects.</li>
 </ul>
 

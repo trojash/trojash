@@ -29,7 +29,7 @@
 
 - **Systems & Virtualization:** `Ubuntu (Server & Desktop)` • `Rocky Linux 9` • `Kali Linux` • `Windows Server` • `VirtualBox`
 - **Networking & SIEM:** `OPNsense` • `Wazuh`
-- **Blue Team & DFIR:** `Zeek` `IntelOwl` • `Autopsy` • `SleuthKit` • `volatility3`
+- **Blue Team & DFIR:** `Zeek` • `Autopsy` • `SleuthKit` • `volatility3`
 
 #### 📫 Connect with Me
 
